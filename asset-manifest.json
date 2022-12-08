@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/siebraun.github.io/coty/index.js/static/css/main.dfdb51eb.css",
-    "main.js": "/siebraun.github.io/coty/index.js/static/js/main.2d45c0d7.js",
-    "static/js/787.67e5fc31.chunk.js": "/siebraun.github.io/coty/index.js/static/js/787.67e5fc31.chunk.js",
-    "index.html": "/siebraun.github.io/coty/index.js/index.html",
-    "main.dfdb51eb.css.map": "/siebraun.github.io/coty/index.js/static/css/main.dfdb51eb.css.map",
-    "main.2d45c0d7.js.map": "/siebraun.github.io/coty/index.js/static/js/main.2d45c0d7.js.map",
-    "787.67e5fc31.chunk.js.map": "/siebraun.github.io/coty/index.js/static/js/787.67e5fc31.chunk.js.map"
+    "main.css": "/coty/static/css/main.dfdb51eb.css",
+    "main.js": "/coty/static/js/main.79aeba81.js",
+    "static/js/787.67e5fc31.chunk.js": "/coty/static/js/787.67e5fc31.chunk.js",
+    "index.html": "/coty/index.html",
+    "main.dfdb51eb.css.map": "/coty/static/css/main.dfdb51eb.css.map",
+    "main.79aeba81.js.map": "/coty/static/js/main.79aeba81.js.map",
+    "787.67e5fc31.chunk.js.map": "/coty/static/js/787.67e5fc31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfdb51eb.css",
-    "static/js/main.2d45c0d7.js"
+    "static/js/main.79aeba81.js"
   ]
 }
